@@ -1,3 +1,4 @@
-push branch dev to  github
+push branch dev to  github gogo
 bad guy go to hell
-hello my world
+hello my world ggo
+check my code
